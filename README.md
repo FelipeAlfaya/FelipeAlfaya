@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div> <br/>
 
-#### Converting coffe to code since i started to live.
+#### Converting coffee to code since I started to live.
 
 ## Other skills
 <div style="display: inline_block"> <br/>
