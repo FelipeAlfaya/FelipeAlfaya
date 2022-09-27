@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![FelipeAlfaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAlfaya&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlfaya&layout=demo)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlfaya&layout=dem)]()
 
 ## Technologies I use on a daily basis
 
