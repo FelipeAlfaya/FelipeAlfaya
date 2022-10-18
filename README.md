@@ -1,8 +1,8 @@
 ### Hi there👋
-### My name is Felipe Alfaya
-### I'm 18 years old, and a mainly web developer in typescript
-### I started to code when I was still 17 years old, in my technical course at SENAI Cimatec, but before I was introduced to programming with minecraft plugins using java (not my better language nowadays lmao)
-### I hope u like my profile!
+## My name is Felipe Alfaya
+## I'm 18 years old, and a mainly web developer in typescript
+## I started to code when I was still 17 years old, in my technical course at SENAI Cimatec, but before I was introduced to programming with minecraft plugins using java (not my better language nowadays lmao)
+## I hope u like my profile!
 
 <!--
 **FelipeAlfaya/FelipeAlfaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlfaya&layout=demo)]()
 
-## Technologies I use on a daily basis
+## Technologies I use more frequently
 
 <div style="display: inline_block"> <br/>
     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div> <br/>
 
-#### Converting coffee to code since I started to live.
+#### Converting coffee to code since 2021.
 
 ## Other skills
 <div style="display: inline_block"> <br/>
