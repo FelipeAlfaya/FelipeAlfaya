@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there👋
+### My name is Felipe Alfaya
+### I'm 18 years old, and a mainly web developer in typescript
+### I started to code when I was still 17 years old, in my technical course at SENAI Cimatec, but before I was introduced to programming with minecraft plugins using java (not my better language nowadays lmao)
+### I hope u like my profile!
 
 <!--
 **FelipeAlfaya/FelipeAlfaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
