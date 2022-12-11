@@ -1,7 +1,7 @@
 ### Hi there👋
 #### ~My name is Felipe Alfaya, I was born and raised in Salvador, Bahia, Brazil;
 #### ~I mainly speak portuguese and have also a regular english;
-#### ~I'm 18 years old, and a mainly web developer in typescript and javascript;
+#### ~I'm mainly a web developer in typescript and javascript;
 #### ~I started to code when I was still 17 years old and actually studying at SENAI Cimatec in a technical course of System Development;
 #### ~I hope u like my profile!
 
