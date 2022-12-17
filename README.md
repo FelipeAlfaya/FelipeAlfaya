@@ -1,9 +1,9 @@
 ### Hi there👋
 #### ~My name is Felipe Alfaya, I was born and raised in Salvador, Bahia, Brazil;
-#### ~I mainly speak portuguese and have also a regular english;
-#### ~I'm mainly a web developer in typescript and javascript;
+#### ~I mainly speak portuguese and english;
+#### ~I'm mainly a web developer in TypeScript and JavaScript;
 #### ~I started to code when I was still 17 years old and actually studying at SENAI Cimatec in a technical course of System Development;
-#### ~I hope u like my profile!
+#### ~I hope u enjoy my profile!
 
 <!--
 **FelipeAlfaya/FelipeAlfaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
