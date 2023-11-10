@@ -5,7 +5,7 @@
 #### ~ I embarked on my coding journey at the age of 15, and over the past 4 years, I've honed my skills. I recently completed my studies at SENAI Cimatec, specializing in System Development.
 #### ~ Welcome to my profile! I hope you find it enjoyable!
 
-<div style="display: inline_block; hover{ opacity: 0.7;}">
+<div style="display: inline_block">
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0C1014?style=for-the-badge&logo=linkedin&logoColor=99D1CE)](https://www.linkedin.com/in/FelipeAlfaya) 
 [![GitHub](https://img.shields.io/badge/GitHub-0C1014?style=for-the-badge&logo=github&logoColor=99D1CE)](https://github.com/FelipeAlfaya/FelipeAlfaya) 
 </div>
