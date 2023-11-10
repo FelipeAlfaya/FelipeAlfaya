@@ -23,6 +23,8 @@
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-4361EE?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-028A0f?style=for-the-badge&logo=npm&logoColor=white"/>
     <img align="center" alt="React" src="https://img.shields.io/badge/React-3cdfff?style=for-the-badge&logo=react&logoColor=white"/>
+    <img align="center" alt="Nest.js" src="https://img.shields.io/badge/Nest.js-DC143C?style=for-the-badge&logo=nestjs&logoColor=white"/>
+    <img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-0C181F?style=for-the-badge&logo=next.js&logoColor=white"/>
 </div> <br/>
 
 #### Converting coffee to code since 2019.
