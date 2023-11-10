@@ -1,9 +1,9 @@
-### Howdy👋
-#### ~My name is Felipe Alfaya, I was born and raised in Salvador, Bahia, Brazil;
-#### ~I mainly speak portuguese and english;
-#### ~I'm mainly a developer of web applications in TypeScript and JavaScript, but I've developed before in python, C, C# and Java;
-#### ~I started to code when I was still 15 years old, 4 years ago. I'm actually studying at SENAI Cimatec in a technical course of System Development;
-#### ~I hope u enjoy my profile!
+### Howdy! 👋
+#### ~ Greetings! I'm Felipe Alfaya, a proud native of Salvador, Bahia, Brazil.
+#### ~ I'm fluent in both Portuguese and English.
+#### ~ My expertise lies in web application development using TypeScript and JavaScript, but I've also dabbled in Python, C, C#, and Java.
+#### ~ I embarked on my coding journey at the age of 15, and over the past 4 years, I've honed my skills. I recently completed my studies at SENAI Cimatec, specializing in System Development.
+#### ~ Welcome to my profile! I hope you find it enjoyable!
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/FelipeAlfaya) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeAlfaya/FelipeAlfaya) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Alfaaya/)
