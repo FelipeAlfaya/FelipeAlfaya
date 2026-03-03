@@ -19,10 +19,10 @@ Started coding at 15 · 5+ years of experience · System Development (SENAI Cima
 
 ### GitHub activity
 
-<img src="https://streak-stats.demolab.com/?user=FelipeAlfaya&theme=midnight-purple&card_height=207" alt="GitHub Streak" width="49%" />
-<img src="https://readme-stats-fast.vercel.app/api?username=FelipeAlfaya&show_icons=true&theme=radical&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=e5e7eb&border_color=1f2937&hide_border=true" alt="GitHub Stats" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=FelipeAlfaya&theme=midnight-purple&card_height=207&hide_border=true" alt="GitHub Streak" width="49%" />
+<img src="https://readme-stats-fast.vercel.app/api?username=FelipeAlfaya&show_icons=true&theme=midnight-purple&title_color=8b5cf6&icon_color=8b5cf6&text_color=e5e7eb&border_color=1f2937&hide_border=true" alt="GitHub Stats" width="49%" />
 
-<img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=FelipeAlfaya&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&title_color=8b5cf6&text_color=e5e7eb&border_color=1f2937&hide_border=true" alt="Top Languages" width="49%" />
+<img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=FelipeAlfaya&layout=compact&langs_count=8&theme=midnight-purple&title_color=8b5cf6&text_color=e5e7eb&border_color=1f2937&hide_border=true" alt="Top Languages" width="49%" />
 
 </div>
 
