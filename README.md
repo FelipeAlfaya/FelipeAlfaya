@@ -5,7 +5,7 @@
 **Felipe Alfaya** · Salvador, Bahia, Brazil
 
 Web developer focused on TypeScript & JavaScript. I also work with Python, C, C#, and Java.  
-Started coding at 15 · 5+ years of experience · System Development (SENAI Cimatec) · System Analysis & Development (Catholic University of Salvador)
+Started coding at 15 · 3+ years of professional experience · System Development (SENAI Cimatec) · System Analysis & Development (Catholic University of Salvador) · Fluent in both english and portuguese
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=8b5cf6&labelColor=0d1117&color=8b5cf6)](https://felipealfaya.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://www.linkedin.com/in/FelipeAlfaya)
